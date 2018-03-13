@@ -1,7 +1,7 @@
 Dealscoin Core integration/staging tree
 =====================================
 
-![Build Status]: currently underdevelopment
+Build Status: currently underdevelopment
 
 What is Dealscoin?
 ----------------
