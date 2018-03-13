@@ -12,9 +12,6 @@ with no central authority: managing transactions and issuing money are carried
 out collectively by the network.Dealscoin Core is the name of open source
 software which enables the use of this currency.
 
-License
--------
-
 
 Development Process
 -------------------
